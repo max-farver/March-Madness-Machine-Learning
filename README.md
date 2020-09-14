@@ -2,7 +2,6 @@
 <p align="center"><strong>Machine learning to predict basketball game outcomes</strong>
 <br/>
 <h2>Goal and requirements</h2>
-Users can create a Project and utlize the functionality of a basic Kanban board.
 
 - Clean Data
 - EDA
